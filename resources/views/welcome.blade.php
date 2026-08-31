@@ -1,8 +1,7 @@
 <x-layouts.app>
     <x-hero />
-    <x-services />
     <x-about />
-    <x-service-categories />
+    <x-services />
     <x-industry-solutions />
     <x-pricing />
     <x-impact />
@@ -12,3 +11,4 @@
     <x-portfolio />
     <x-cta />
 </x-layouts.app>
+

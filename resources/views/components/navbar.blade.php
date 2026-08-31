@@ -1,7 +1,7 @@
 <nav class="fixed top-0 left-0 right-0 z-50 flex justify-center pt-3 lg:pt-5">
     <div class="w-full max-w-7xl mx-5 lg:mx-10 bg-white border-2 border-[#2563EB] shadow-lg rounded-full flex items-center justify-between px-5 lg:px-8 h-11 lg:h-[52px]">
-        <a href="/" class="flex-shrink-0">
-            <img src="{{ asset('images/logo/logo-klikweb.png') }}" alt="KlikWeb" class="h-10 lg:h-12 w-auto">
+        <a href="#" class="flex-shrink-0">
+            <img src="{{ asset('images/compro/logo.png') }}" alt="KlikWeb" class="h-6 sm:h-7 lg:h-8 w-auto">
         </a>
         <div class="hidden md:flex items-center gap-5 lg:gap-7">
             <a href="#home" class="text-[#0F172A] font-semibold text-xs lg:text-sm hover:text-[#2563EB] transition-all duration-300">Home</a>

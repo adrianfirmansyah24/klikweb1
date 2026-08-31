@@ -1,9 +1,11 @@
-<section class="py-16 lg:py-20 bg-[#EFF6FF]">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div class="text-center mb-12">
-            <span class="inline-block text-xs font-semibold tracking-[0.2em] uppercase text-[#2563EB] bg-white px-4 py-1.5 rounded-full">Solusi berdasarkan industri</span>
+<section class="py-20 bg-[#EFF6FF]">
+    <div class="max-w-7xl mx-auto px-6 sm:px-8 lg:px-10">
+        <div class="text-center mb-14">
+            <h2 class="text-3xl sm:text-4xl font-bold text-[#0F172A]">
+                Solusi berdasarkan industri
+            </h2>
         </div>
-        <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-4">
+        <div class="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-5">
             <div class="bg-white p-5 rounded-xl border border-[#E2E8F0] hover:shadow-md transition-shadow">
                 <div class="w-10 h-10 bg-[#EFF6FF] rounded-lg flex items-center justify-center mb-3">
                     <svg class="w-5 h-5 text-[#2563EB]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
