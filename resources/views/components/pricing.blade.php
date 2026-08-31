@@ -43,7 +43,7 @@
             </div>
 
             <!-- Paket Growth (Blue Featured Card) -->
-            <div class="bg-[#2563EB] text-white rounded-3xl p-8 flex flex-col justify-between shadow-2xl relative border-2 border-blue-400 scale-[1.02]">
+            <div class="bg-[#2563EB] text-white rounded-3xl p-8 flex flex-col justify-between shadow-2xl relative border-2 border-blue-400 scale-100 md:scale-[1.02]">
                 <div class="absolute -top-3.5 right-6 bg-[#BFDBFE] text-[#0F172A] text-[11px] font-bold tracking-wider uppercase px-3.5 py-1 rounded-full shadow-sm">
                     PALING FLEKSIBEL
                 </div>

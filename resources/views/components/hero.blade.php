@@ -31,11 +31,9 @@
             <div class="relative flex items-center justify-center lg:justify-end pt-6 lg:pt-0">
                 <div class="relative z-10 w-full max-w-[480px] sm:max-w-[540px] drop-shadow-2xl">
                     <div class="relative transition-transform duration-500 hover:scale-[1.02]">
-                        <!-- Tilted Frame Image home2.png -->
                         <img src="{{ asset('images/compro/home2.png') }}" alt="KlikWeb Browser Preview" class="w-full h-auto drop-shadow-xl">
-                        <!-- Centered Logo Overlay inside the browser frame -->
-                        <div class="absolute inset-0 flex items-center justify-center p-8 pt-12">
-                            <img src="{{ asset('images/compro/logo.png') }}" alt="KlikWeb Logo" class="h-16 sm:h-20 lg:h-24 w-auto object-contain">
+                        <div class="absolute inset-0 flex items-center justify-center px-6 pt-14 sm:pt-16 pb-8">
+                            <img src="{{ asset('images/compro/logo.png') }}" alt="KlikWeb Logo" class="w-3/5 sm:w-3/5 h-auto object-contain">
                         </div>
                     </div>
                 </div>
